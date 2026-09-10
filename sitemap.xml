@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://adriandie.github.io/moskenescamping-mirror/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://adriandie.github.io/moskenescamping-mirror/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://adriandie.github.io/moskenescamping-mirror/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adriandie.github.io/moskenescamping-mirror/" />
+  </url>
+  <url>
+    <loc>https://adriandie.github.io/moskenescamping-mirror/en/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://adriandie.github.io/moskenescamping-mirror/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://adriandie.github.io/moskenescamping-mirror/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adriandie.github.io/moskenescamping-mirror/" />
+  </url>
+</urlset>
